@@ -1,0 +1,46 @@
+#======================================================================
+
+# CRYSTAL DATA
+
+#----------------------------------------------------------------------
+
+data_VESTA_phase_1
+
+
+_chemical_name_common                  'vasp                                  '
+_cell_length_a                         8.22001
+_cell_length_b                         8.24911
+_cell_length_c                         10.10696
+_cell_angle_alpha                      90
+_cell_angle_beta                       89.44651
+_cell_angle_gamma                      120.11722
+_space_group_name_H-M_alt              'P 1'
+_space_group_IT_number                 1
+
+loop_
+_space_group_symop_operation_xyz
+   'x, y, z'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_B_iso_or_equiv
+   _atom_site_type_symbol
+   Bi1        1.0     0.670860      0.335430      0.173534     Biso  1.000000 Bi
+   Bi2        1.0     0.343207      0.671604      0.824256     Biso  1.000000 Bi
+   Cs1        1.0     0.981549      0.990775      0.996127     Biso  1.000000 Cs
+   Cs2        1.0     0.655973      0.327986      0.667680     Biso  1.000000 Cs
+   Cs3        1.0     0.322707      0.661354      0.346605     Biso  1.000000 Cs
+   I1         1.0     0.305096      0.152548      0.312394     Biso  1.000000 I
+   I2         1.0     0.817966      0.150910      0.343935     Biso  1.000000 I
+   I3         1.0     0.817966      0.667055      0.343935     Biso  1.000000 I
+   I4         1.0     0.152167      0.319558      0.672548     Biso  1.000000 I
+   I5         1.0     0.152167      0.832609      0.672548     Biso  1.000000 I
+   Br1        1.0     0.543833      0.519444      0.978863     Biso  1.000000 Br
+   Br2        1.0     0.543833      0.024389      0.978863     Biso  1.000000 Br
+   Br3        1.0     0.043712      0.521856      0.031554     Biso  1.000000 Br
+   Br4        1.0     0.648965      0.824482      0.657160     Biso  1.000000 Br

@@ -1,0 +1,46 @@
+#======================================================================
+
+# CRYSTAL DATA
+
+#----------------------------------------------------------------------
+
+data_VESTA_phase_1
+
+
+_chemical_name_common                  'vasp                                  '
+_cell_length_a                         8.28818
+_cell_length_b                         8.28818
+_cell_length_c                         10.13885
+_cell_angle_alpha                      90
+_cell_angle_beta                       90
+_cell_angle_gamma                      120.00002
+_space_group_name_H-M_alt              'P 1'
+_space_group_IT_number                 1
+
+loop_
+_space_group_symop_operation_xyz
+   'x, y, z'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_B_iso_or_equiv
+   _atom_site_type_symbol
+   Bi1        1.0     0.666667      0.333333      0.174517     Biso  1.000000 Bi
+   Bi2        1.0     0.333333      0.666667      0.825483     Biso  1.000000 Bi
+   Cs1        1.0     0.000000      0.000000      0.000000     Biso  1.000000 Cs
+   Cs2        1.0     0.666667      0.333333      0.671072     Biso  1.000000 Cs
+   Cs3        1.0     0.333333      0.666667      0.328929     Biso  1.000000 Cs
+   I1         1.0     0.324667      0.162334      0.334159     Biso  1.000000 I
+   I2         1.0     0.837666      0.162334      0.334159     Biso  1.000000 I
+   I3         1.0     0.837666      0.675333      0.334159     Biso  1.000000 I
+   I4         1.0     0.162334      0.324667      0.665841     Biso  1.000000 I
+   I5         1.0     0.162334      0.837666      0.665841     Biso  1.000000 I
+   I6         1.0     0.675333      0.837666      0.665841     Biso  1.000000 I
+   Br1        1.0     0.500000      0.500000      0.000000     Biso  1.000000 Br
+   Br2        1.0     0.500000      0.000000      0.000000     Biso  1.000000 Br
+   Br3        1.0     0.000000      0.500000      0.000000     Biso  1.000000 Br
